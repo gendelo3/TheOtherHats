@@ -4501,21 +4501,23 @@
             "author": "Fluse"
         },
         {
-            "name": "shiftex",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "adaptive": true,
-            "resource": "shiftex_adaptive.png",
-            "reshasha": "f1d9b2a1711df9927f38da6ec2e57ff0",
-            "author": "Fluse"
-        },
-        {
             "name": "Tablet",
             "package": "Fluse Community Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "Tablet_adaptive.png",
             "reshasha": "4abbfb57fd0c5983015a9cb8d2cc9ff5",
+            "author": "Fluse"
+        },
+        {
+            "name": "shiftex",
+            "package": "Fluse Community Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "shiftex_adaptive.png",
+            "reshasha": "f1d9b2a1711df9927f38da6ec2e57ff0",
+            "climbresource": "shiftex_adaptive_climb.png",
+            "reshashc": "97e57aeeaae8901479c4b5cf875be64f",
             "author": "Fluse"
         }
     ]
