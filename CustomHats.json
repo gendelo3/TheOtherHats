@@ -4124,14 +4124,6 @@
             "author": "Fluse"
         },
         {
-            "name": "Goldgoogly",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "resource": "Goldgoogly.png",
-            "reshasha": "aeaffc711b5fdcc79bc111d906a622ba",
-            "author": "Fluse"
-        },
-        {
             "name": "honigfuchs",
             "package": "Fluse Community Hats",
             "condition": "None",
@@ -4457,15 +4449,6 @@
             "reshasha": "d73f134d7d12453048859da901e2e6f5",
             "climbresource": "shotboy_climb_adaptive.png",
             "reshashc": "bf070352cce39c2754a01a829be6ee1a",
-            "author": "Fluse"
-        },
-        {
-            "name": "Tablet",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "adaptive": true,
-            "resource": "Tablet_adaptive.png",
-            "reshasha": "4abbfb57fd0c5983015a9cb8d2cc9ff5",
             "author": "Fluse"
         },
         {
