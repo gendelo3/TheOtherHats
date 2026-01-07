@@ -4505,8 +4505,8 @@
             "package": "Fluse Community Hats",
             "condition": "None",
             "adaptive": true,
-            "climbresource": "shiftex_adaptive_climb.png",
-            "reshashc": "3b8eb93c8ffccfb6b17e2c413e75a2e2",
+            "resource": "shiftex_adaptive.png",
+            "reshasha": "f1d9b2a1711df9927f38da6ec2e57ff0",
             "author": "Fluse"
         },
         {
