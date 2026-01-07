@@ -4327,21 +4327,6 @@
             "author": "Fluse"
         },
         {
-            "name": "mymil",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "adaptive": true,
-            "resource": "mymil_adaptive.png",
-            "reshasha": "ca83973d85d76c8fb0c9177cca48b58a",
-            "backresource": "mymil_back_adaptive2.png",
-            "reshashb": "d3926bafa2e04608268a5b861f5e4c22",
-            "climbresource": "mymil_climb_adaptive2.png",
-            "reshashc": "7f7a968d12c31e46b0570241003c1f7e",
-            "flipresource": "mymil_flip_adaptive.png",
-            "reshashf": "bc01528bdc670d94d8845226135d9649",
-            "author": "Fluse"
-        },
-        {
             "name": "nachtsitzung",
             "package": "Fluse Community Hats",
             "condition": "None",
