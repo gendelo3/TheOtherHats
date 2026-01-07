@@ -4331,7 +4331,7 @@
             "package": "Fluse Community Hats",
             "condition": "None",
             "adaptive": true,
-            "resource": "mymil_bounce_adaptive.png",
+            "resource": "mymil_adaptive.png",
             "reshasha": "ca83973d85d76c8fb0c9177cca48b58a",
             "backresource": "mymil_back_adaptive2.png",
             "reshashb": "d3926bafa2e04608268a5b861f5e4c22",
