@@ -4476,6 +4476,47 @@
             "climbresource": "xafron_climb.png",
             "reshashc": "fa79f0bbe5c769428d2607ba779b2fe8",
             "author": "Fluse"
+        },
+        {
+            "name": "mymil",
+            "package": "Fluse Community Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "mymil_adaptive.png",
+            "reshasha": "1047394060b879091597bc56b4e92c58",
+            "backresource": "mymil_back_adaptive.png",
+            "reshashb": "d3926bafa2e04608268a5b861f5e4c22",
+            "climbresource": "mymil_climb_adaptive.png",
+            "reshashc": "7f7a968d12c31e46b0570241003c1f7e",
+            "flipresource": "mymil_flip_adaptive.png",
+            "reshashf": "bc01528bdc670d94d8845226135d9649",
+            "author": "Fluse"
+        },
+        {
+            "name": "saliamori",
+            "package": "Fluse Community Hats",
+            "condition": "None",
+            "resource": "saliamori.png",
+            "reshasha": "895e1918e3b92a49a1cf84b17c138141",
+            "author": "Fluse"
+        },
+        {
+            "name": "shiftex",
+            "package": "Fluse Community Hats",
+            "condition": "None",
+            "adaptive": true,
+            "climbresource": "shiftex_adaptive_climb.png",
+            "reshashc": "3b8eb93c8ffccfb6b17e2c413e75a2e2",
+            "author": "Fluse"
+        },
+        {
+            "name": "Tablet",
+            "package": "Fluse Community Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "Tablet_adaptive.png",
+            "reshasha": "4abbfb57fd0c5983015a9cb8d2cc9ff5",
+            "author": "Fluse"
         }
     ]
 }
