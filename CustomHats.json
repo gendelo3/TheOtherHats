@@ -4415,17 +4415,6 @@
             "author": "Fluse"
         },
         {
-            "name": "shiftex",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "adaptive": true,
-            "climbresource": "shiftex_climb_adaptive.png",
-            "reshashc": "97e57aeeaae8901479c4b5cf875be64f",
-            "resource": "shiftex_bounce_adaptive.png",
-            "reshasha": "f1d9b2a1711df9927f38da6ec2e57ff0",
-            "author": "Fluse"
-        },
-        {
             "name": "shotboy",
             "package": "Fluse Community Hats",
             "condition": "None",
@@ -4498,15 +4487,6 @@
             "condition": "None",
             "resource": "saliamori.png",
             "reshasha": "895e1918e3b92a49a1cf84b17c138141",
-            "author": "Fluse"
-        },
-        {
-            "name": "Tablet",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "adaptive": true,
-            "resource": "Tablet_adaptive.png",
-            "reshasha": "4abbfb57fd0c5983015a9cb8d2cc9ff5",
             "author": "Fluse"
         },
         {
