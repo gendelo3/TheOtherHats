@@ -3984,17 +3984,6 @@
             "author": "Fluse"
         },
         {
-            "name": "catEars",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "adaptive": true,
-            "resource": "catEars_adaptive.png",
-            "reshasha": "c676b0dc7fb07d2b27313b553955bc40",
-            "climbresource": "catEars_climb.png",
-            "reshashc": "ce0238c5606b25d42ab7852a2e74e2c4",
-            "author": "Fluse"
-        },
-        {
             "name": "cloud",
             "package": "Fluse Community Hats",
             "condition": "None",
