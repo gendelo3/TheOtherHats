@@ -4441,15 +4441,6 @@
             "author": "Fluse"
         },
         {
-            "name": "Tablet",
-            "package": "Fluse Community Hats",
-            "condition": "None",
-            "adaptive": true,
-            "resource": "Tablet_adaptive.png",
-            "reshasha": "4abbfb57fd0c5983015a9cb8d2cc9ff5",
-            "author": "Fluse"
-        },
-        {
             "name": "toon",
             "package": "Fluse Community Hats",
             "condition": "None",
