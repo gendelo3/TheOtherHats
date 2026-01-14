@@ -3934,7 +3934,7 @@
         },
         {
             "name": "alina",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "alina.png",
             "reshasha": "503ababf5c8784d35d16975bba31aeed",
@@ -3944,17 +3944,17 @@
         },
         {
             "name": "askimas",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "askimas.png",
             "reshasha": "74e48f86410dbf38c42556f6362df5fa",
             "climbresource": "askimas_climb.png",
             "reshashc": "9ba900561d6033dd441b1b78d741a029",
-            "author": "Fluse"
+            "author": "LonelyKate"
         },
         {
             "name": "avoca",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "avoca_bounce.png",
             "reshasha": "238c5c3916be1e5d8d13b39de19209bd",
@@ -3965,7 +3965,7 @@
         },
         {
             "name": "badend",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "badend.png",
             "reshasha": "c3a9650b9e04788a3aaf0ca917b56a45",
@@ -3975,7 +3975,7 @@
         },
         {
             "name": "captainmyko",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "captainmyko.png",
             "reshasha": "f2cf684c9acfafc6522c15636a2153d5",
@@ -3985,7 +3985,7 @@
         },
         {
             "name": "cloud",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "cloud.png",
             "reshasha": "bbffbdba68b0bfc3c472b6668c6690d5",
@@ -3995,7 +3995,7 @@
         },
         {
             "name": "cookiehuskins",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "cookiehuskins_bounce.png",
             "reshasha": "d2c4f07b0fd3beaa5b1ac220c07f3a89",
@@ -4006,7 +4006,7 @@
         },
         {
             "name": "crazycraftt",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "crazycraftt.png",
             "reshasha": "9e320b83687829cd78a0e4c5475a8ae3",
@@ -4018,7 +4018,7 @@
         },
         {
             "name": "dabpanda",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "dabpanda_adaptive.png",
@@ -4029,7 +4029,7 @@
         },
         {
             "name": "detwo22",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "detwo22.png",
             "reshasha": "d6c9170eea18f3ee0506c7e1c2acfbf1",
@@ -4039,7 +4039,7 @@
         },
         {
             "name": "distreuier",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "backresource": "distreuier_back.png",
             "reshashb": "e1ab6dc8810530ee9c9945dc307131d5",
@@ -4048,11 +4048,11 @@
             "bounce": true,
             "climbresource": "distreuier_climb.png",
             "reshashc": "87d698dec983d71d2710a7eebfc12b0b",
-            "author": "Fluse"
+            "author": "LonelyKate"
         },
         {
             "name": "dranwer",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "dranwer_bounce_adaptive.png",
@@ -4064,7 +4064,7 @@
         },
         {
             "name": "eckse",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "eckse_bounce_adaptive.png",
@@ -4076,7 +4076,7 @@
         },
         {
             "name": "einhornwaffel",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "einhornwaffel.png",
             "reshasha": "858d0fc2803f8b803b497c3f1cde06a6",
@@ -4086,7 +4086,7 @@
         },
         {
             "name": "ente",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "ente_bounce.png",
             "reshasha": "9b214f79c738d0e0e05942e78c04b306",
@@ -4097,7 +4097,7 @@
         },
         {
             "name": "fabilappi",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "fabilappi_bounce.png",
             "reshasha": "7a750168352672703c0fa83272abb89e",
@@ -4110,7 +4110,7 @@
         },
         {
             "name": "fearlesstama",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "fearlesstama_adaptive.png",
@@ -4121,7 +4121,7 @@
         },
         {
             "name": "freasy",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "freasy.png",
             "reshasha": "41ec49a9a36e4789b5c066f89e809ffc",
@@ -4133,7 +4133,7 @@
         },
         {
             "name": "housepartycup",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "housepartycup_adaptive.png",
@@ -4144,7 +4144,7 @@
         },
         {
             "name": "imploverin",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "imploverin.png",
             "reshasha": "ec2fd0b865136e0fce74ea230f2ddfb0",
@@ -4154,7 +4154,7 @@
         },
         {
             "name": "jademaus",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "jademaus_bounce.png",
             "reshasha": "6ba0d736b7a1a3806cf9ffb93f8787fa",
@@ -4165,7 +4165,7 @@
         },
         {
             "name": "kazeberlin",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "backresource": "kazeberlin_back.png",
             "reshashb": "1ca279ee6fe0fc9f1c7de78db998a298",
@@ -4178,7 +4178,7 @@
         },
         {
             "name": "kazyro",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "kazyro_adaptive.png",
@@ -4189,7 +4189,7 @@
         },
         {
             "name": "kevinjeson",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "kevinjeson.png",
             "reshasha": "17a431b31cbeca27a664c68f36179e6b",
@@ -4199,7 +4199,7 @@
         },
         {
             "name": "kitanto",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "kitanto.png",
             "reshasha": "2c786f09387b5f7283089547c54cb94f",
@@ -4209,7 +4209,7 @@
         },
         {
             "name": "krojos",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "krojos.png",
             "reshasha": "a659af11ed8b8aa3247803527dd7854a",
@@ -4219,7 +4219,7 @@
         },
         {
             "name": "kyuubey",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "kyuubey.png",
             "reshasha": "e597118f648f849f5943b1c25b2defea",
@@ -4231,7 +4231,7 @@
         },
         {
             "name": "loki",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "loki_bounce_adaptive.png",
@@ -4243,7 +4243,7 @@
         },
         {
             "name": "lonelykate",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "lonelykate.png",
             "reshasha": "3124855a7c5ff5fd1c21586dfcea4ed5",
@@ -4253,7 +4253,7 @@
         },
         {
             "name": "lpindie",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "lpindie.png",
             "reshasha": "dec7cc59ff66cdbf073ec6ae3e05224f",
@@ -4263,7 +4263,7 @@
         },
         {
             "name": "mahlissimo",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "mahlissimo_adaptive.png",
@@ -4274,7 +4274,7 @@
         },
         {
             "name": "mikatokchi",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "mikatokchi.png",
             "reshasha": "269086302437005776149fe3a5978835",
@@ -4284,7 +4284,7 @@
         },
         {
             "name": "milkyway",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "milkyway.png",
             "reshasha": "01b4cebd85777be7b8323d3660000bc0",
@@ -4294,17 +4294,17 @@
         },
         {
             "name": "mimikry",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "mimikry.png",
             "reshasha": "d98b389904dca197d098bbafcc956c8f",
             "climbresource": "mimikry_climb.png",
             "reshashc": "a7a749d7ef5b8536dd8ae7bb0c5827cb",
-            "author": "Fluse"
+            "author": "LonelyKate"
         },
         {
             "name": "mymil",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "mymil_adaptive.png",
@@ -4315,17 +4315,17 @@
         },
         {
             "name": "nachtsitzung",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "nachtsitzung.png",
             "reshasha": "1a41edd1b295293d3ea681504a14aeae",
             "climbresource": "nachtsitzung_climb.png",
             "reshashc": "03456e7921c2cff91ba6861ac32c2526",
-            "author": "Fluse"
+            "author": "LonelyKate"
         },
         {
             "name": "neli",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "neli.png",
             "reshasha": "cfa227c43311f1d7b464dbe016265b51",
@@ -4335,7 +4335,7 @@
         },
         {
             "name": "nestariolp",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "nestariolp.png",
             "reshasha": "e4c67fb9f7fea9c7a38ea4445994d0b8",
@@ -4345,7 +4345,7 @@
         },
         {
             "name": "osloq",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "osloq.png",
             "reshasha": "1dbae73c786f872c079958d72c027f7a",
@@ -4355,7 +4355,7 @@
         },
         {
             "name": "pallenberg",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "pallenberg.png",
             "reshasha": "731a29011d1119c73dcc84246e431292",
@@ -4365,7 +4365,7 @@
         },
         {
             "name": "pommeskiwi",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "pommeskiwi_bounce.png",
             "reshasha": "a8fa3835c9dc2d997bab73770dd18c48",
@@ -4376,7 +4376,7 @@
         },
         {
             "name": "p\u00fcppi",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "p\u00fcppi.png",
             "reshasha": "13a281bcd5ad5bb50c2056569bf11bc4",
@@ -4386,7 +4386,7 @@
         },
         {
             "name": "raviel",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "raviel.png",
             "reshasha": "75ace815a16fdae4142c2c7c2987fd82",
@@ -4396,7 +4396,7 @@
         },
         {
             "name": "richter",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "richter_bounce_adaptive.png",
@@ -4408,7 +4408,7 @@
         },
         {
             "name": "saliamori",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "saliamori.png",
             "reshasha": "e29079fa9b9c1194cf01ae1da436b2d4",
@@ -4418,7 +4418,7 @@
         },
         {
             "name": "shiftex",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "shiftex_bounce_adaptive.png",
@@ -4430,7 +4430,7 @@
         },
         {
             "name": "shotboy",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "shotboy_bounce_adaptive.png",
@@ -4442,7 +4442,7 @@
         },
         {
             "name": "toon",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "adaptive": true,
             "resource": "toon_adaptive.png",
@@ -4453,7 +4453,7 @@
         },
         {
             "name": "ugesnightmare",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "ugesnightmare.png",
             "reshasha": "62b8bc13b1c1680a72e815b4f79b0220",
@@ -4463,7 +4463,7 @@
         },
         {
             "name": "vegele",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "vegele.png",
             "reshasha": "8ab4d2f23b2ce1bf2b228836ea07cd98",
@@ -4473,7 +4473,7 @@
         },
         {
             "name": "xafron",
-            "package": "Fluse Community Hats",
+            "package": "Fluse Event Hats",
             "condition": "None",
             "resource": "xafron.png",
             "reshasha": "50b75ce4607925f35f734bb22e1775c4",
