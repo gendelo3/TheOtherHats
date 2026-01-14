@@ -4508,6 +4508,29 @@
             "climbresource": "xafron_climb.png",
             "reshashc": "6c9a6bdd6d06d4c596da88d5de3453f4",
             "author": "Fluse"
+        },
+        {
+            "name": "Kaira",
+            "package": "Community Hats",
+            "condition": "None",
+            "resource": "Kaira.png",
+            "reshasha": "8115fb458ac0b23b5fe34d04de0c5d9a",
+            "climbresource": "Kaira_climb.png",
+            "reshashc": "2120370eee00ef8235ac012b8f8b0ee1",
+            "author": "Kaira"
+        },
+        {
+            "name": "runner",
+            "package": "Community Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "runner_adaptive.png",
+            "reshasha": "902ca8bc3c1c6a73eccc9af0d76c75c6",
+            "climbresource": "runner_climb_adaptive.png",
+            "reshashc": "9e2f961512fec95f151e28714f9a3b07",
+            "flipresource": "runner_flip_adaptive.png",
+            "reshashf": "427f76060392a36bf1e1a767b373c3c2",
+            "author": "R1"
         }
     ]
 }
